@@ -1,0 +1,17 @@
+*
+!.gitignore
+!MusicPlayer.py
+!player_utils.py
+!README.md
+
+
+!musicPlayer/
+musicPlayer/*
+
+!musicPlayer/img/
+!musicPlayer/img/font.ttf
+!musicPlayer/img/icon.png
+
+
+!musicPlayer/music/
+musicPlayer/music/*
