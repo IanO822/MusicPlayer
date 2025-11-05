@@ -6,7 +6,7 @@ os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame
 import vlc
 import random
-from FTLtool import *
+from player_utils import *
 from mutagen.easyid3 import EasyID3
 from mutagen.mp3 import MP3
 
